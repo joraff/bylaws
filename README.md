@@ -6,9 +6,7 @@ The Lab is a nonprofit corporation and shall neither have nor exercise any power
 
 ### ARTICLE I - OFFICES
 
-1.  **Principal Office.** The principal office of the Lab shall be located in Houston, Texas, or such other place as the Voting Members may determine. The Lab may have such other offices, either in Texas or elsewhere, as the Voting Members may determine. The Voting Members may change the location of any office of the Lab.
-
-2.  **Registered Office.** The Lab shall have and continuously maintain in the State of Texas a registered office and a registered agent whose office is identical with such registered office, as required by the TBOC. The registered office may, but need not, be identical with the principal office in Texas. The registered agent and the address of the registered office may be changed from time to time by the Voting Members in accordance with applicable law.
+1.  **Principal Office.** The principal office of the organization shall be located in Bryan, Texas, or such other place as the Voting Members may determine. The Lab may have such other offices, either in Texas or elsewhere, as the Voting Members may determine. The Voting Members may change the location of any office of the Lab.
 
 ### ARTICLE II - STATEMENT OF PURPOSE
 
